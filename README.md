@@ -1,2 +1,2 @@
 # LINKEDLN 
-![img-readme](public/assets/img/linkedin.png)
+![img-readme](public/assets/images/linkedin.png)
