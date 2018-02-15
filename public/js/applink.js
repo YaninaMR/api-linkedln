@@ -7,9 +7,8 @@
     
     window.Linkedin = {
         init : function(){
-            message('The Linkedin JS has loaded.');
-            message('You can now login.');
-            
+            message('Linkedin JS cargo.');
+                      
             $('.IN-widget').on('click', function(){
                 message('hiciste click');
             });
@@ -19,7 +18,7 @@
             message('te devolvemos data.');
         }
         , onLogoutCallback : function(){
-            message('You just logged out.');
+            message('logged out.');
         }
         , userData : function(p_oUserInfo){
             message('Tu solicitud fue procesado:');
